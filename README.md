@@ -1,7 +1,8 @@
 ![image](https://user-images.githubusercontent.com/78986028/165563343-d6fef85c-6d9a-4225-88b1-9ee7d1ffb2af.png)
 
 # Resumo do projeto
-Projeto de um jogo de luta criado com Javascript, HTML, CSS. Utilizando classes e manipulação de um elemento canvas para fazer animações e colisões dos objetos do jogo.
+Projeto criado apartir do video: [HTML5 Canvas and JavaScript Mario Game Tutorial](https://www.youtube.com/watch?v=4q2vvZn5aoo&ab_channel=ChrisCourses).
+Um jogo platformer criado com Javascript, HTML, CSS. Utilizando classes e manipulação de um elemento canvas para fazer animações e colisões dos objetos do jogo.
 </br> <h2>Situação do projeto: </h2>Em andamento.
 
 ## ✔️ Técnicas e tecnologias utilizadas
